@@ -1,0 +1,21 @@
+$raduis: 10px;
+.cards {
+  border: 2px solid #0b5ed7;
+  border-radius: $raduis;
+  -webkit-border-radius: $raduis;
+  -moz-border-radius: $raduis;
+  -ms-border-radius: $raduis;
+  -o-border-radius: $raduis;
+}
+.img {
+  border-radius: $raduis $raduis 0 0;
+  -webkit-border-radius: $raduis $raduis 0 0;
+  -moz-border-radius: $raduis $raduis 0 0;
+  -ms-border-radius: $raduis $raduis 0 0;
+  -o-border-radius: $raduis $raduis 0 0;
+}
+.badge {
+  top: 10px;
+  right: 20px;
+  font-size: 17px;
+}
