@@ -5,7 +5,7 @@
 <img height=400px src="https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gif">
 <div align="center"  width=10%>
 
-#### "Everything will be fine in the end, Morty. And if it isn't, it's not the end yet. ⛰"
+### "Everything will be fine in the end, Morty. And if it isn't, it's not the end yet.⛰"
 
 </div>
 </div>
@@ -44,6 +44,8 @@ Build **Rick and Morty** website by using **React JS**</li>
    </ul>
    </li>
 </ul>
+<li>Let's go visit <a href="https://snazzy-meerkat-1bf0dc.netlify.app/">Rick & Morty Wiki
+</li>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Started"></a>
 
