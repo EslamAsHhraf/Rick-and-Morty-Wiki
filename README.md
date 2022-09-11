@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width=500px src="https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gif">
+<img  src="https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gif">
   
 </div>
 
@@ -21,7 +21,7 @@
 <ul>
  <li>
 
-Build **Rick and Morty** website by using **React js**</li>
+Build **Rick and Morty** website by using **React JS**</li>
 
  <li> The Project is built by
  
