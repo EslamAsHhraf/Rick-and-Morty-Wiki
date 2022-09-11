@@ -3,7 +3,11 @@
 <div align="center">
 
 <img height=400px src="https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gif">
-  
+<div align="center"  width=10%>
+
+### "Everything will be fine in the end, Morty. And if it isn't, it's not the end yet."
+
+</div>
 </div>
 
 <hr style="background-color: #4b4c60"></hr>
@@ -46,12 +50,36 @@ Build **Rick and Morty** website by using **React JS**</li>
 
 <table  >
 <tr >
-<th width=23% >Feature</th>
+<th width=20% >Feature</th>
 <th >Description</th>
 </tr>
 <tr>
 <td> 🔷 Search bar</td>
 <td> You can use search bar for searching  your favourite characters.</td>
+</tr>
+<tr>
+<td> 🔶 Pagination</td>
+<td>In total there are 800+ characters. In order to display and manage all of these characters, there is a pagination system where each page will display 20 characters.</td>
+</tr>
+<tr>
+<td> 🔷 Filters</td>
+<td>There are lots of labels present in the API. Using them, you can filter  data and search for exactly what you need.</td>
+</tr>
+<tr>
+<td> 🔶 Routing</td>
+<td>You can change your page by using navbar
+<ul>
+<br>
+<li>Characters</li>
+<li>Episodes</li>
+<li>Location</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td> 🔷 Dynamic Routing</td>
+<td>You can learn more about a character when you click on it.
+</td>
 </tr>
 </table>
 
