@@ -12,6 +12,7 @@
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#Contributors"> ✨ Contributors</a>
+- <a href ="#Features"> ☢ Features of the project</a>
 - <a href ="#License"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
@@ -37,6 +38,22 @@ Build **Rick and Morty** website by using **React JS**</li>
    </ul>
    </li>
 </ul>
+
+<hr style="background-color: #4b4c60"></hr>
+<a id ="Features"></a>
+
+## <img align="center"  height =60px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> Features of the project
+
+<table  >
+<tr >
+<th width=23% >Feature</th>
+<th >Description</th>
+</tr>
+<tr>
+<td> 🔷 Search bar</td>
+<td> You can use search bar for searching  your favourite characters.</td>
+</tr>
+</table>
 
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
